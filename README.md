@@ -54,7 +54,7 @@ I am an open-source advocate and proponent of an open and descentralized web.
   
   📊 [Data Analysis with Python](https://freecodecamp.org/certification/mariobox/data-analysis-with-python-v7) - 2021
   
-  💻 [CS50x Indroduction to Computer Science](http://cs50xmiami.com/verify) - 2018
+  💻 [CS50x Indroduction to Computer Science](https://drive.google.com/file/d/1fm8EQ2jkeUGUr0A6HB1Nddf7dOTvClUG/view?usp=sharing) - 2018
   
  
   **My Github Stats**
