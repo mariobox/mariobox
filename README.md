@@ -50,6 +50,8 @@ I am an open-source advocate and proponent of an open and descentralized web.
   
   **Certifications**
   
+  :rocket: [Django For Everybody](https://coursera.org/share/0168b3865fa7c7107114726e339d71a6) - 2021
+  
   🔧 [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/FCRCG62QHYBN) - 2021
   
   📊 [Data Analysis with Python](https://freecodecamp.org/certification/mariobox/data-analysis-with-python-v7) - 2021
