@@ -39,6 +39,7 @@ I am an open-source advocate and proponent of an open and descentralized web.
   ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-555?style=flat-square&logo=gnu-bash&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-E34F26?style=flat-square&logo=jupyter&logoColor=white)
   
   
   **OS and VPS**
