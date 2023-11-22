@@ -51,15 +51,15 @@ I am an open-source advocate and proponent of an open and descentralized web.
   
   **Certifications**
 
-  💡 [CS50SQL Introduction to Databases with SQL]("https://certificates.cs50.io/f66eedcb-f7d7-4d59-93e1-3170943b6108.pdf?size=letter")
+  💡 [CS50SQL Introduction to Databases with SQL](https://certificates.cs50.io/f66eedcb-f7d7-4d59-93e1-3170943b6108.pdf?size=letter)
   
-  💻 [Foundational C# with Microsoft]("https://www.freecodecamp.org/certification/mariobox/foundational-c-sharp-with-microsoft") 
+  💻 [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/mariobox/foundational-c-sharp-with-microsoft) 
   
-  🐍 [CS50P Introduction to Programming in Python]("https://certificates.cs50.io/bc8a572e-b437-4d8a-afc3-6494a43d071a")
+  🐍 [CS50P Introduction to Programming in Python](https://certificates.cs50.io/bc8a572e-b437-4d8a-afc3-6494a43d071a)
   
-  🔧 [Relational Data Bases and SQL]("https://www.freecodecamp.org/certification/mariobox/relational-database-v8")
+  🔧 [Relational Data Bases and SQL](https://www.freecodecamp.org/certification/mariobox/relational-database-v8)
     
-  ⚙️ [JavaScripts Algorithms and Data Structures]("https://www.freecodecamp.org/certification/mariobox/javascript-algorithms-and-data-structures")
+  ⚙️ [JavaScripts Algorithms and Data Structures](https://www.freecodecamp.org/certification/mariobox/javascript-algorithms-and-data-structures)
   
   :rocket: [Django For Everybody](https://coursera.org/share/0168b3865fa7c7107114726e339d71a6) 
   
