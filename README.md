@@ -50,14 +50,24 @@ I am an open-source advocate and proponent of an open and descentralized web.
   
   
   **Certifications**
+
+  💡 [CS50SQL Introduction to Databases with SQL]("https://certificates.cs50.io/f66eedcb-f7d7-4d59-93e1-3170943b6108.pdf?size=letter")
   
-  :rocket: [Django For Everybody](https://coursera.org/share/0168b3865fa7c7107114726e339d71a6) - 2021
+  💻 [Foundational C# with Microsoft]("https://www.freecodecamp.org/certification/mariobox/foundational-c-sharp-with-microsoft") 
   
-  🔧 [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/FCRCG62QHYBN) - 2021
+  🐍 [CS50P Introduction to Programming in Python]("https://certificates.cs50.io/bc8a572e-b437-4d8a-afc3-6494a43d071a")
   
-  📊 [Data Analysis with Python](https://freecodecamp.org/certification/mariobox/data-analysis-with-python-v7) - 2021
+  🔧 [Relational Data Bases and SQL]("https://www.freecodecamp.org/certification/mariobox/relational-database-v8")
+    
+  ⚙️ [JavaScripts Algorithms and Data Structures]("https://www.freecodecamp.org/certification/mariobox/javascript-algorithms-and-data-structures")
   
-  💻 [CS50x Indroduction to Computer Science](https://drive.google.com/file/d/1fm8EQ2jkeUGUr0A6HB1Nddf7dOTvClUG/view?usp=sharing) - 2018
+  :rocket: [Django For Everybody](https://coursera.org/share/0168b3865fa7c7107114726e339d71a6) 
+  
+  🔧 [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/FCRCG62QHYBN) 
+  
+  📊 [Data Analysis with Python](https://freecodecamp.org/certification/mariobox/data-analysis-with-python-v7) 
+  
+  💻 [CS50x Indroduction to Computer Science](https://drive.google.com/file/d/1fm8EQ2jkeUGUr0A6HB1Nddf7dOTvClUG/view?usp=sharing) 
   
  
   **My Github Stats**
