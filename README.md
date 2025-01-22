@@ -1,12 +1,12 @@
-### Hi there 👋
+### Mario Sanchez Carrion
 
-This is Mario, a web developer based in Miami, FL :us:, originally from :peru:.
-I am an open-source advocate and proponent of an open and descentralized web.
+I am a math tutor currently helping middle and high school students master common math concepts, and getting them prepared for the SAT and ACT tests. 
 
-- 🔭 I’m currently working on building a solid web development foundation and expanding my skills.
-- 🌱 I’m currently learning web development with Python and JavaScript.
-- 💾 This is my [personal page](https://mariosanchez.org).
+I am also a computer programming enthusiast, especially interested in data analytics using Python, SQL and R.
 
+I previously worked in international marketing and product development for <a href="https://www.stanleyblackanddecker.com/">Stanley Black & Decker</a>, for more than 25 years.
+
+👋 Contact me at <a href="mailto:mario@mariosanchez.org">mario@mariosanchez.org</a>.
 
 **Languages:**  
 
