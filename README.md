@@ -1,10 +1,6 @@
 ### Mario Sanchez Carrion
 
-I am a math tutor currently helping middle and high school students master common math concepts, and getting them prepared for the SAT and ACT tests. 
-
-I am also a computer programming enthusiast, especially interested in data analytics using Python, SQL and R.
-
-I previously worked in international marketing and product development for <a href="https://www.stanleyblackanddecker.com/">Stanley Black & Decker</a>, for more than 25 years.
+I am a computer programming enthusiast, especially interested in databases and data analytics. I am also a math tutor. 
 
 👋 Contact me at <a href="mailto:mario@mariosanchez.org">mario@mariosanchez.org</a>.
 
