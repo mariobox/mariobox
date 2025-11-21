@@ -46,8 +46,10 @@ I am a computer programming enthusiast, especially interested in databases and d
   
   
   **Certifications**
-
-  💡 [CS50SQL Introduction to Databases with SQL](https://certificates.cs50.io/f66eedcb-f7d7-4d59-93e1-3170943b6108.pdf?size=letter)
+  
+  📊 [CS50R Introduction to Programming with R](https://certificates.cs50.io/0914e00c-1834-4d92-8f82-4c383537804e.pdf?size=letter)
+     
+  🗄️ [CS50SQL Introduction to Databases with SQL](https://certificates.cs50.io/f66eedcb-f7d7-4d59-93e1-3170943b6108.pdf?size=letter)
   
   💻 [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/mariobox/foundational-c-sharp-with-microsoft) 
   
