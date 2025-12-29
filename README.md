@@ -1,6 +1,6 @@
 ### Mario Sanchez Carrion
 
-I am a computer programming enthusiast, especially interested in databases and data analytics. I am also a math tutor. 
+I am a math tutor also interested in computer programming, especially regarding databases and data analytics. 
 
 👋 Contact me at <a href="mailto:mario@mariosanchez.org">mario@mariosanchez.org</a>.
 
